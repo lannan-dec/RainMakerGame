@@ -1,0 +1,89 @@
+
+RAINMAKER
+The Campaign
+Read the world. Earn the trust. Create the value.
+An AI-supported tabletop experience for professional development
+1. The concept
+Create a premium, facilitated business simulation inspired by the persistent worlds of Dungeons & Dragons and the strategic card mechanics of Magic: The Gathering. Participants play consultants building a practice within a dynamic commercial ecosystem. They discover opportunities, develop relationships, allocate scarce resources and make decisions whose consequences carry forward through the campaign.
+The product combines an author’s consulting methodology, an existing AI coach and original tabletop game design. A Campaign Director runs the experience, using AI to portray fictional clients, adapt scenarios and support debriefs. The objective is not merely to win work, but to develop the judgement and habits of an effective rainmaker.
+2. The book
+Rainmaker: How the Best Consultants Think, Act, and Win in an AI-Accelerated World, by Neil Plumridge and Robert Nason (Wiley), explores how exceptional consultants differentiate themselves amid industry disruption. The publisher’s synopsis highlights early opportunity recognition, engagements designed around client value, executive trust and repeatable professional habits. It also describes more than 30 real-world examples.
+The tree metaphor discussed in the book provides a design inspiration: soil (market), roots (inner foundations), trunk (capabilities), branches (strategies) and harvest (outcomes). The proposed game translates these themes into playable systems rather than reproducing the book.
+Source: Wiley publisher synopsis and table of contents, as discussed in the concept development. The full book has not yet been reviewed; framework labels and mechanics require author verification.
+
+3. The participant experience
+Discover
+Complete a questionnaire on industry, experience, behaviours, strengths and development needs, including short commercial dilemmas.
+Create a character
+Translate responses into a starting character sheet, resources and personalised development quests. Treat results as developmental indicators, not validated psychological scores.
+Receive a kit
+A branded presentation box with personalised dice, 3D-printed tokens, cards, character sheet, journal and AI coach access. Participants keep their kit.
+Enter the world
+Four to six players join a facilitated campaign adapted to their industry. The AI maintains fictional client profiles, hidden information and evolving scenarios.
+Play and develop
+Participants choose actions, negotiate, role-play conversations and experience consequences over successive turns or sessions.
+Debrief
+Review decisions against approved book principles, identify alternative approaches and agree practical actions for real client relationships.
+Continue
+Use the existing AI coach between sessions; return for advanced campaigns and track development over time.
+Physical identity
+Working brand: Rainmaker — The Campaign. A restrained forest-green, ivory and brass visual identity would position the product as an executive experience. Prototype custom dice, trust medallions, time tokens, client pieces and achievement markers using 3D printing. Production dice should be tested for fairness and durability. Branding requires rights clearance.
+
+4. Example game structure
+Each participant manages a fictional consulting practice. The board is a network of organisations, executives, competitors and referral partners rather than a linear track. Each turn represents a commercial period. Players receive finite time and capacity, choose actions, resolve encounters and update their relationships and pipeline.
+Character attributes
+Illustrative capabilities include client understanding, communication, opportunity recognition, integrity, adaptability and delivery. Starting profiles influence available resources and development quests.
+Pursuit deck
+Market intelligence, lead qualification, introductions and emerging opportunities.
+Value deck
+Reframing briefs, developing propositions and mobilising specialist capabilities.
+Trust deck
+Listening, confidential conversations, commitments and relationship development.
+Discipline deck
+Protected prospecting time, follow-through and prioritisation.
+Event and dilemma cards
+Leadership changes, tenders, acquisitions, competitor moves, capacity pressures and ethical choices.
+Resources and dice
+Time, credibility and capacity tokens; relationship-specific trust levels. Dice resolve external uncertainty, not the quality of judgement.
+Persistent state
+Track relationships, commitments, opportunities, resources and previous decisions. Later events reflect earlier actions.
+Example turn sequence
+Reveal market event → review private intelligence → choose actions and spend resources → role-play client encounter → resolve uncertainty → update game state → reflect on decisions. The facilitator can override AI suggestions to preserve consistency and learning value.
+
+5. A playable encounter
+The acquisition
+A manufacturer acquires a European competitor. It has an incumbent adviser and a new CFO. You know the tax director, have no relationship with the CFO and possess relevant technical expertise. Your available time is limited. What do you do?
+Send a proposal
+The incumbent may already cover the obvious work; the proposal may consume time without revealing a differentiated opportunity.
+Arrange a conversation
+You may uncover management concerns about integration costs and develop the relationship.
+Research and reframe
+You may identify a wider commercial issue and offer a more relevant discussion.
+Mobilise colleagues
+International colleagues may identify integration risks, but you still need client access and relevance.
+Decline to pursue
+Conserve resources for stronger prospects, while accepting that competitors may develop this relationship.
+These are possible consequences, not predetermined correct answers. The AI portrays the client using hidden motivations and prior interactions. The facilitator evaluates the reasoning, controls the outcome and leads a debrief against the approved methodology.
+What winning looks like
+Use an illustrative balanced scorecard: client value (25%), qualified pipeline (20%), depth of trust (20%), commercial performance (15%), professional habits (10%) and capability development (10%). Serious ethical breaches should constrain success regardless of revenue. Reward improvement as well as absolute performance. All weights require playtesting and author approval.
+Campaign progression
+A multi-session experience could move from market awareness (Soil), to purpose and ethics (Roots), capabilities (Trunk), commercial strategies (Branches), and integrated commercial outcomes (Harvest). Players retain their characters and experience the longer-term consequences of decisions.
+
+6. Technology and commercial opportunity
+AI-supported, human-led
+Separate a deterministic game rules engine from the generative AI. The rules engine tracks resources, scores and campaign history. The AI personalises scenarios, role-plays fictional clients and proposes feedback grounded in the approved knowledge base. The Campaign Director controls narrative, resolves ambiguity and approves assessments. The existing chatbot could be reused for coaching, subject to technical review.
+A first paid development project
+Weeks 1–2
+Read the book, interview the authors and map approved learning objectives to potential mechanics.
+Weeks 3–4
+Design questionnaire, character sheets, rules, action decks and one playable scenario.
+Weeks 5–6
+Prototype physical pieces and integrate the chatbot into a simple facilitator workflow.
+Weeks 7–8
+Playtest, refine and demonstrate a three-hour pilot for four to six consultants.
+Potential business model
+Sell facilitated workshops and multi-session campaigns through the existing training business. Later options include industry expansion packs, bespoke corporate simulations, participant kits, facilitator accreditation and platform licensing. The reusable game engine could support other professional education topics, including leadership, negotiation, governance and risk.
+Decisions before commercialisation
+Confirm author and publisher permissions, brand rights, ownership of original game mechanics and software, payment and revenue-sharing arrangements, participant privacy, AI reliability and assessment validity. Test engagement, learning outcomes and willingness to pay before investing in custom software or production inventory.
+The initial opportunity is to design and demonstrate an original, playable experience. The game designer should have creative ownership of the prototype, with the authors providing subject-matter validation and the technology partner supporting integration.
+
